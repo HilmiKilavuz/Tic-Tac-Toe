@@ -1,0 +1,13 @@
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form2.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form3.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form4.resources
